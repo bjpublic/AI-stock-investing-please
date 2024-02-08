@@ -1,0 +1,1 @@
+icecream_price = [500, 2000]

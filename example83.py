@@ -1,0 +1,2 @@
+boy = Child()
+boy.sing()

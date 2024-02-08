@@ -1,0 +1,2 @@
+father = Parent()
+father.sing()
