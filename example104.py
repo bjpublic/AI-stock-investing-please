@@ -1,0 +1,1 @@
+print(lifeExp + 100)

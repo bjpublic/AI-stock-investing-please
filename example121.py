@@ -1,0 +1,5 @@
+print(nan == True)
+print(nan == False)
+print(nan == nan)
+print(nan == 0)
+print(nan == "")

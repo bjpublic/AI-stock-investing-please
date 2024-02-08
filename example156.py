@@ -1,0 +1,2 @@
+print('ONE')
+print("TWO")
